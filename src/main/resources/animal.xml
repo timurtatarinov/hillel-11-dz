@@ -1,0 +1,10 @@
+<Animal><nikName>sharik</nikName>
+    <dateOfArrival>2015.03.11</dateOfArrival>
+    <age>7</age>
+    <gender>false</gender>
+    <bread>doberman</bread>
+    <type><id>1</id>
+        <name>root</name>
+        <string>text</string>
+    </type>
+</Animal>
